@@ -1,0 +1,32 @@
+[
+  {
+    "amount": 100.0,
+    "date": "2026-01-22",
+    "category": "Transport",
+    "note": ""
+  },
+  {
+    "amount": 200.0,
+    "date": "2026-03-21",
+    "category": "Travel",
+    "note": ""
+  },
+  {
+    "amount": 1000.0,
+    "date": "2026-02-14",
+    "category": "Entertainment",
+    "note": ""
+  },
+  {
+    "amount": 500.0,
+    "date": "2026-02-16",
+    "category": "Education",
+    "note": ""
+  },
+  {
+    "amount": 300.0,
+    "date": "2026-02-28",
+    "category": "Food",
+    "note": ""
+  }
+]
